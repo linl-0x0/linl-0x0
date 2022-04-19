@@ -1,6 +1,4 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
 hi, i'm [linl](https://github.com/linl-0x0), a passionate self-taught full stack engineer. My passion for software is to come up with ideas and implement them through elegant interfaces. I pay close attention to the experience, architecture, and code quality of what I'm building.
 I am also an open source enthusiast and maintainer. I have learned a lot from the open source community and I love the way collaboration and knowledge sharing are achieved through open source.
 I'm also in business,This is my personal storage unit after I reset it  
