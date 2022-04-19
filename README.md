@@ -5,8 +5,6 @@ I'm also in business,This is my personal storage unit after I reset it
 
 <br/>
 
-<p align="center"> <img src="https://avatars.githubusercontent.com/u/77044519?s=400&u=02998a6da6101285cb82ec09693b221dae23725f&v=4" alt="abhisheknaiidu" height="350px width="350px"/>
-
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
