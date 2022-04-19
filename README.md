@@ -3,7 +3,9 @@
 
 hi, i'm [linl](https://github.com/linl-0x0), a passionate self-taught full stack engineer. My passion for software is to come up with ideas and implement them through elegant interfaces. I pay close attention to the experience, architecture, and code quality of what I'm building.
 I am also an open source enthusiast and maintainer. I have learned a lot from the open source community and I love the way collaboration and knowledge sharing are achieved through open source.
-I'm also in business,This is my personal storage unit after I reset it  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+I'm also in business,This is my personal storage unit after I reset it  
+
+<br/><img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 **languages and tools:**  
 
@@ -17,6 +19,12 @@ I'm also in business,This is my personal storage unit after I reset it  <img ali
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+<br/>
+
+<br/>
+
+<br/>
 
 
 📈 **my github stats**
