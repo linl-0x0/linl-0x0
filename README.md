@@ -17,6 +17,30 @@ I'm also in business,This is my personal storage unit after I reset it
     <th>Documentation</th>
     <th>Address</th>
   </tr>
+  <tr>
+    <td>**`Git`**</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>❌</td>
+  </tr>
+  <tr>
+    <td>**`Java`**</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>❌</td>
+  </tr>
+  <tr>
+    <td>**`Go`**</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>❌</td>
+  </tr>
+  <tr>
+    <td>...</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 
 |    name    | state | Documentation | Address |
