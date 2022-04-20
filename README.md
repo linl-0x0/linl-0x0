@@ -10,12 +10,12 @@ I'm also in business,This is my personal storage unit after I reset it
 
 **learning route**
 
-|        name         | state | Documentation | Video |
-| :-----------------: | :---: | :-----------: | :---: |
-| **`Git版本控制器`** |   ❌   |       ❌       |   ❌   |
-|     **`Java`**      |   ❌   |       ❌       |   ❌   |
-|    **`Golang`**     |   ❌   |       ❌       |   ❌   |
-|         ...         |       |               |       |
+|        name         | state | Documentation | Video | e-book |
+| :-----------------: | :---: | :-----------: | :---: | :----: |
+| **`Git版本控制器`** |   ❌   |       ❌       |   ❌   |   ❌    |
+|     **`Java`**      |   ❌   |       ❌       |   ❌   |   ❌    |
+|    **`Golang`**     |   ❌   |       ❌       |   ❌   |   ❌    |
+|         ...         |       |               |       |        |
 
 <br/>
 
