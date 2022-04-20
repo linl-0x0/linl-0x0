@@ -8,6 +8,17 @@ I'm also in business,This is my personal storage unit after I reset it
 
 <br/>
 
+**learning route**
+
+|    name    | state | Documentation | Address |
+| :--------: | :---: | :-----------: | :-----: |
+| **`Git`**  |   ❌   |       ❌       |    ❌    |
+| **`Java`** |   ❌   |       ❌       |    ❌    |
+|  **`Go`**  |   ❌   |       ❌       |    ❌    |
+|    ...     |       |               |         |
+
+<br/>
+
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -28,3 +39,4 @@ I'm also in business,This is my personal storage unit after I reset it
 📈 **my github stats**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=linl-0x0&show_icons=true&theme=dark" alt="linl" />
+
