@@ -11,7 +11,7 @@ I'm also in business,This is my personal storage unit after I reset it
 **learning route**
 
 <table border="1" align="center">
-  <tr>
+  <tr align="center">
     <th>name</th>
     <th>state</th>
     <th>Documentation</th>
