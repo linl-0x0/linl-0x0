@@ -17,9 +17,12 @@ I'm also in business,This is my personal storage unit after I reset it
 |   **`操作系统`**    |   ❌   |       ❌       |   ❌   |   ❌    |
 |  **`计算机网络`**   |   ❌   |       ❌       |   ❌   |   ❌    |
 |     **`Linux`**     |   ❌   |       ❌       |   ❌   |   ❌    |
+|     **`Bash`**      |   ❌   |       ❌       |   ❌   |   ❌    |
 |    **`Python`**     |   ❌   |       ❌       |   ❌   |   ❌    |
 |    **`Golang`**     |   ❌   |       ❌       |   ❌   |   ❌    |
 |     **`Java`**      |   ❌   |       ❌       |   ❌   |   ❌    |
+|       **`C`**       |   ❌   |       ❌       |   ❌   |   ❌    |
+|     **`AT&T`**      |   ❌   |       ❌       |   ❌   |   ❌    |
 |         ...         |       |               |       |        |
 
 <br/>
