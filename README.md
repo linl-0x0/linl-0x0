@@ -17,25 +17,25 @@ I'm also in business,This is my personal storage unit after I reset it
     <th>Documentation</th>
     <th>Address</th>
   </tr>
-  <tr>
+  <tr align="center">
     <td>**`Git`**</td>
     <td>❌</td>
     <td>❌</td>
     <td>❌</td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>**`Java`**</td>
     <td>❌</td>
     <td>❌</td>
     <td>❌</td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>**`Go`**</td>
     <td>❌</td>
     <td>❌</td>
     <td>❌</td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>...</td>
     <td></td>
     <td></td>
