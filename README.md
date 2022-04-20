@@ -18,19 +18,19 @@ I'm also in business,This is my personal storage unit after I reset it
     <th>Address</th>
   </tr>
   <tr align="center">
-    <td>**`Git`**</td>
+    <td>`Git`</td>
     <td>❌</td>
     <td>❌</td>
     <td>❌</td>
   </tr>
   <tr align="center">
-    <td>**`Java`**</td>
+    <td>`Java`</td>
     <td>❌</td>
     <td>❌</td>
     <td>❌</td>
   </tr>
   <tr align="center">
-    <td>**`Go`**</td>
+    <td>`Go`</td>
     <td>❌</td>
     <td>❌</td>
     <td>❌</td>
