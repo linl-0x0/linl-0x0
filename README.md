@@ -14,8 +14,12 @@ I'm also in business,This is my personal storage unit after I reset it
 | :-----------------: | :---: | :-----------: | :---: | :----: |
 | **`Git版本控制器`** |   ❌   |       ❌       |   ❌   |   ❌    |
 |  **`Gitbook教程`**  |   ❌   |       ❌       |   ❌   |   ❌    |
-|     **`Java`**      |   ❌   |       ❌       |   ❌   |   ❌    |
+|   **`操作系统`**    |   ❌   |       ❌       |   ❌   |   ❌    |
+|  **`计算机网络`**   |   ❌   |       ❌       |   ❌   |   ❌    |
+|     **`Linux`**     |   ❌   |       ❌       |   ❌   |   ❌    |
+|    **`Python`**     |   ❌   |       ❌       |   ❌   |   ❌    |
 |    **`Golang`**     |   ❌   |       ❌       |   ❌   |   ❌    |
+|     **`Java`**      |   ❌   |       ❌       |   ❌   |   ❌    |
 |         ...         |       |               |       |        |
 
 <br/>
@@ -34,9 +38,9 @@ I'm also in business,This is my personal storage unit after I reset it
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linl-0x0&langs_count=compact&theme=dark" alt="abhisheknaiidu" />
-
 <br/>
 
 📈 **my github stats**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=linl-0x0&show_icons=true&theme=dark" alt="linl" />
+
