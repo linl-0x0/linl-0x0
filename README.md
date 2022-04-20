@@ -10,39 +10,6 @@ I'm also in business,This is my personal storage unit after I reset it
 
 **learning route**
 
-<table border="1" align="center">
-  <tr align="center">
-    <th>name</th>
-    <th>state</th>
-    <th>Documentation</th>
-    <th>Address</th>
-  </tr>
-  <tr align="center">
-    <td>`Git`</td>
-    <td>❌</td>
-    <td>❌</td>
-    <td>❌</td>
-  </tr>
-  <tr align="center">
-    <td>`Java`</td>
-    <td>❌</td>
-    <td>❌</td>
-    <td>❌</td>
-  </tr>
-  <tr align="center">
-    <td>`Go`</td>
-    <td>❌</td>
-    <td>❌</td>
-    <td>❌</td>
-  </tr>
-  <tr align="center">
-    <td>...</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
 |    name    | state | Documentation | Address |
 | :--------: | :---: | :-----------: | :-----: |
 | **`Git`**  |   ❌   |       ❌       |    ❌    |
