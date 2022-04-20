@@ -10,6 +10,13 @@ I'm also in business,This is my personal storage unit after I reset it
 
 **learning route**
 
+<style>
+  table
+  {
+    margin:auto;
+  }
+</style>
+
 |    name    | state | Documentation | Address |
 | :--------: | :---: | :-----------: | :-----: |
 | **`Git`**  |   ❌   |       ❌       |    ❌    |
