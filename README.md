@@ -8,7 +8,7 @@ I'm also in business,This is my personal storage unit after I reset it
 
 <br/>
 
-**learning route**
+**learning route(Around the Linux direction)**
 
 |        name         | state | Documentation | Video | e-book |
 | :-----------------: | :---: | :-----------: | :---: | :----: |
