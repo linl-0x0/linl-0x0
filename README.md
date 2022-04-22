@@ -23,6 +23,7 @@ I'm also in business,This is my personal storage unit after I reset it
 |     **`Java`**      |   ❌   |       ❌       |   ❌   |   ❌    |
 |       **`C`**       |   ❌   |       ❌       |   ❌   |   ❌    |
 |     **`AT&T`**      |   ❌   |       ❌       |   ❌   |   ❌    |
+|   **`信息安全`**    |   ❌   |       ❌       |   ❌   |   ❌    |
 |         ...         |       |               |       |        |
 
 <br/>
@@ -46,4 +47,3 @@ I'm also in business,This is my personal storage unit after I reset it
 📈 **my github stats**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=linl-0x0&show_icons=true&theme=dark" alt="linl" />
-
