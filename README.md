@@ -14,6 +14,7 @@ I'm also in business,This is my personal storage unit after I reset it
 | :-----------------: | :---: | :-----------: | :---: | :----: |
 | **`Git版本控制器`** |   ❌   |       ❌       |   ❌   |   ❌    |
 |  **`Gitbook教程`**  |   ❌   |       ❌       |   ❌   |   ❌    |
+|     **`数学`**      |   ❌   |       ❌       |   ❌   |   ❌    |
 |   **`操作系统`**    |   ❌   |       ❌       |   ❌   |   ❌    |
 |  **`计算机网络`**   |   ❌   |       ❌       |   ❌   |   ❌    |
 |     **`Linux`**     |   ❌   |       ❌       |   ❌   |   ❌    |
@@ -24,6 +25,9 @@ I'm also in business,This is my personal storage unit after I reset it
 |       **`C`**       |   ❌   |       ❌       |   ❌   |   ❌    |
 |     **`AT&T`**      |   ❌   |       ❌       |   ❌   |   ❌    |
 |   **`信息安全`**    |   ❌   |       ❌       |   ❌   |   ❌    |
+|     **`物理`**      |   ❌   |       ❌       |   ❌   |   ❌    |
+|     **`英语`**      |   ❌   |       ❌       |   ❌   |   ❌    |
+|     **`俄语`**      |   ❌   |       ❌       |   ❌   |   ❌    |
 |         ...         |       |               |       |        |
 
 <br/>
@@ -47,3 +51,4 @@ I'm also in business,This is my personal storage unit after I reset it
 📈 **my github stats**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=linl-0x0&show_icons=true&theme=dark" alt="linl" />
+
