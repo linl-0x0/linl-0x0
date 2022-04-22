@@ -4,7 +4,6 @@ I am also an open source enthusiast and maintainer. I have learned a lot from th
 I'm also in business,This is my personal storage unit after I reset it  
 
 -  🔭 **[database](https://github.com/linl-0x0/database)**：Knowledge base::database
--  🌱 **[Gallery](https://github.com/linl-0x0/Gallery)**：Picture storage warehouse
 
 <br/>
 
@@ -51,4 +50,3 @@ I'm also in business,This is my personal storage unit after I reset it
 📈 **my github stats**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=linl-0x0&show_icons=true&theme=dark" alt="linl" />
-
