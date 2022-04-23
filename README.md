@@ -11,7 +11,7 @@ I'm also in business,This is my personal storage unit after I reset it
 
 |        name         | state | Documentation | Video | e-book |
 | :-----------------: | :---: | :-----------: | :---: | :----: |
-| **`Git版本控制器`** |   ❌   |       ❌       |   ❌   |   ❌    |
+| **`Git版本控制器`** |   ✅   |       ✅       |   ❌   |   ✅    |
 |  **`Gitbook教程`**  |   ❌   |       ❌       |   ❌   |   ❌    |
 |     **`数学`**      |   ❌   |       ❌       |   ❌   |   ❌    |
 |   **`操作系统`**    |   ❌   |       ❌       |   ❌   |   ❌    |
@@ -50,3 +50,4 @@ I'm also in business,This is my personal storage unit after I reset it
 📈 **my github stats**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=linl-0x0&show_icons=true&theme=dark" alt="linl" />
+
