@@ -25,7 +25,7 @@ I'm also in business,This is my personal storage unit after I reset it
 |     **`Ruby`**      |   ❌   |       ❌       |   ❌   |   ❌    |
 |     **`Rust`**      |   ❌   |       ❌       |   ❌   |   ❌    |
 |     **`前端`**      |   ❌   |       ❌       |   ❌   |   ❌    |
-|     **`VUE3`**      |   ❌   |       ❌       |   ❌   |   ❌    |
+|     **`Vue3`**      |   ❌   |       ❌       |   ❌   |   ❌    |
 |     **`MySQL`**     |   ❌   |       ❌       |   ❌   |   ❌    |
 |    **`SQLite`**     |   ❌   |       ❌       |   ❌   |   ❌    |
 |    **`MongoDB`**    |   ❌   |       ❌       |   ❌   |   ❌    |
