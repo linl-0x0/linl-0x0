@@ -11,7 +11,7 @@ I'm also in business,This is my personal storage unit after I reset it
 
 |        name         | state | Documentation | Video | e-book |
 | :-----------------: | :---: | :-----------: | :---: | :----: |
-| **`Git版本控制器`** |   ✅   |       ✅       |   ❌   |   ✅    |
+| **`Git版本控制器`** |   ✅   |       ✅       |   ✅   |   ✅    |
 |     **`数学`**      |   ❌   |       ❌       |   ❌   |   ❌    |
 |     **`英语`**      |   ❌   |       ❌       |   ❌   |   ❌    |
 |     **`俄语`**      |   ❌   |       ❌       |   ❌   |   ❌    |
