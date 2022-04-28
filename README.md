@@ -38,6 +38,7 @@ I'm also in business,This is my personal storage unit after I reset it
 |      **`密码学`**       |   ❌   |       ❌       |   ❌   |   ❌    |
 |    **`二进制安全`**     |   ❌   |       ❌       |   ❌   |   ❌    |
 |     **`逆向工程`**      |   ❌   |       ❌       |   ❌   |   ❌    |
+|      **`大数据`**       |   ❌   |       ❌       |   ❌   |   ❌    |
 |     **`人工智能`**      |   ❌   |       ❌       |   ❌   |   ❌    |
 |           ...           |       |               |       |        |
 
@@ -62,3 +63,4 @@ I'm also in business,This is my personal storage unit after I reset it
 📈 **my github stats**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=linl-0x0&show_icons=true&theme=dark" alt="linl" />
+
